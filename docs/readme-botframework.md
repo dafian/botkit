@@ -25,7 +25,7 @@ Table of Contents
 
 2) Register a developer account with the Bot Framework [Developer Portal](https://dev.botframework.com/) and follow [this guide](https://docs.botframework.com/en-us/csharp/builder/sdkreference/gettingstarted.html#registering) to register your first bot with the Bot Framework.
 
-* You'll be asked to provide an endpoint for your bot during the registration process which you should set to "https://<HOST>/botframework/receive". If your using a service like [ngrok](https://ngrok.com/) to run your bot locally you should set the "<HOST>" portion of your endpoint to
+* You'll be asked to provide an endpoint for your bot during the registration process which you should set to "https://<HOST>/botframework/receive". If you're using a service like [ngrok](https://ngrok.com/) to run your bot locally you should set the "<HOST>" portion of your endpoint to
   be the hostname assigned by ngrok.
 * Write down the *App ID* and *App Password* assigned to your new bot as you'll need them when you run your bot.
 
